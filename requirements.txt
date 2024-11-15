@@ -4,6 +4,6 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-transformers @ file: ///C:\Users\dell\OneDrive\Desktop\Programs\flask\saved_packages\transformers-4.46.2-py3-none-any.whl
+transformers  @ file://./saved_pack/transformers-4.46.2-py3-none-any.whl
 flask_cors
-torch @ file: ///C:\Users\dell\OneDrive\Desktop\Programs\flask\saved_packages\torch-2.5.1-cp312-cp312-win_amd64.whl
+torch @ file://./saved_pack/torch-1.x.x-cp39-cp39-win_amd64.whl
